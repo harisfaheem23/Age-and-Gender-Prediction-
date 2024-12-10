@@ -26,7 +26,7 @@ st.sidebar.info(
     2. The model processes the image and predicts the results.
     
     Developed by: **Haris Faheem and Hassan Nasir**
-    Contact: [LinkedIn Profile](https://www.linkedin.com/in/haris-faheem-1376982a3/)'''
+    \nContact: [LinkedIn Profile](https://www.linkedin.com/in/haris-faheem-1376982a3/)'''
     
 )
 
